@@ -5,5 +5,6 @@ return {
       514984, -- PineappleFin
       683067, -- kensz
       761140, -- kienzy kensz add uid
-      684505 -- portal kenszy add uid
+      684505, -- portal kenszy add uid
+      827167 -- Itermitas
 }
