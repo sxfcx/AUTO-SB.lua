@@ -7,5 +7,6 @@ return {
       761140, -- kienzy kensz add uid
       684505, -- portal kenszy add uid
       827167, -- Itermitas
-      360899 -- Protous (LOAN)
+      360899,  -- Protous (LOAN)
+      50155  -- SLIMED
 }
