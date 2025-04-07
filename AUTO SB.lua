@@ -8,5 +8,6 @@ return {
       684505, -- portal kenszy add uid
       827167, -- Itermitas
       360899,  -- Protous (LOAN)
-      50155  -- SLIMED
+      50155,  -- SLIMED
+      470650 -- ppp
 }
