@@ -9,5 +9,6 @@ return {
       827167, -- Itermitas
       360899,  -- Protous (LOAN)
       50155,  -- SLIMED
-      470650 -- ppp
+      470650, -- ppp
+      360566 -- Bosar
 }
