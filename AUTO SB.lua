@@ -10,5 +10,6 @@ return {
       360899,  -- Protous (LOAN)
       50155,  -- SLIMED
       470650, -- ppp
-      360566 -- Bosar
+      360566, -- Bosar
+      909864
 }
